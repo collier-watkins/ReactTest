@@ -1,6 +1,8 @@
 # ReactTest
 Testing ReactJS components for a future project
 
+Following [this tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+
 ## Setup Instructions
 Install Node.js and run the command `sudo npm i -g create-react-app@1.5.2`.
 
