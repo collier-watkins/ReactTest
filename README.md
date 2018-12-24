@@ -1,7 +1,7 @@
 # ReactTest
-Testing ReactJS components for a future project
+This repo is a history of learning React.
 
-Following [this tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+Following [this tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0). Last stopped at 32:50.
 
 ## Setup Instructions
 Install Node.js and run the command `sudo npm i -g create-react-app@1.5.2`.
@@ -28,6 +28,8 @@ We suggest that you begin by typing:
   cd react-test
   npm start
 ```
+Installed Bootstrap, a CSS library for modern look and feel. `npm install bootstrap@4.1.1`. Install any dependencies needed as well.
+
 
 
 
